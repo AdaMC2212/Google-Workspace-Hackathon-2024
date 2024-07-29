@@ -1,4 +1,4 @@
-# Google-Workspace-Hackathon-2024
+# Team D50 Google-Workspace-Hackathon-2024
 
 Group Member : <a href="https://github.com/AdaMC2212">**Yong Xiang**</a>, <a href="https://github.com/sebasdiii">**Weng Thim**</a> , <a href="https://github.com/zijet">**Zi Jet**</a> 
 
